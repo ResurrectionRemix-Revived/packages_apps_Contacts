@@ -229,4 +229,6 @@
 
     <color name="actionbar_text_color">@android:color/white</color>
 
+    <!-- Color of contact name in list. -->
+    <color name="contact_list_name_text_color">#dadada</color>
 </resources>
